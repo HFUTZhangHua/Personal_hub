@@ -25,7 +25,7 @@
 
 [插入链接ctrl+k](https://blog.csdn.net/cris_zz/article/details/82919401)
 
-![ctrl+shft+i](C:\Users\11378\Desktop\方格纸.jpg)
+![ctrl+shft+i](方格纸.jpg)
 
 ctrl+shft+i插入图片
 
